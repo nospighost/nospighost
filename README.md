@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi 👋, ich bin nospighost
 
-<!--
-**nospighost/nospighost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Mein Fokus liegt auf der Java-Entwicklung. Dort programmiere ich hauptsächlich Minecraft Plugins.<br>
+</p>
 
-Here are some ideas to get you started:
+## 📖 Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,cs,js" />
+  </a>
+</p>
+
+## ⚙️ IDEs & Editors
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=idea,rider,vscode,visualstudio&perline=2"/>
+  </a>
+</p>
+
+## ℹ️ Statistics
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nospighost&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nospighost&theme=tokyo-night&hide_border=true" />
+</p>
+
+## 🚀 Some Projects
+
+- **[rewardPlugin](https://github.com/nospighost/rewardPlugin.git)** – Minecraft Reward-Plugin (Java)
+- **[OneBlock](https://github.com/nospighost/OneBlock.git)** – Minecraft OneBlock Plugin (Java)
+
+## 📫 Reach me & Socials
+
+<p align="center">
+  <a href="https://discord.com">
+    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://modrinth.com/user/nospighost">
+    <img src="https://svgicons.com/img/189249/modrinth.svg" height="50" alt="Modrinth" />
+  </a>
+</p>
