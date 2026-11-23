@@ -42,6 +42,6 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://modrinth.com/user/nospighost">
-    <img src="https://svgicons.com/img/189249/modrinth.svg" height="50" alt="Modrinth" style="background-color: white; padding: 5px; border-radius: 8px;" />
+    <img src="https://cdn.simpleicons.org/modrinth/1BD96A" height="50" alt="Modrinth" style="background-color: #ffffff; padding: 8px; border-radius: 8px;" />
   </a>
 </p>
