@@ -36,13 +36,12 @@
 - **[OneBlock](https://github.com/nospighost/OneBlock.git)** – Minecraft OneBlock Plugin (Java)
 
 ## 📫 Reach me & Socials
-
 <p align="center">
-  <a href="https://discord.com">
+  <a href="https://discord.com/users/1019973878698758144">
     <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://modrinth.com/user/nospighost">
-    <img src="https://svgicons.com/img/189249/modrinth.svg" height="50" alt="Modrinth" />
+    <img src="https://svgicons.com/img/189249/modrinth.svg" height="50" alt="Modrinth" style="background-color: white; padding: 5px; border-radius: 8px;" />
   </a>
 </p>
