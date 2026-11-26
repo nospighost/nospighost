@@ -32,8 +32,8 @@
 
 ## 🚀 Some Projects
 
-- **[rewardPlugin](https://github.com/nospighost/rewardPlugin.git)** – Minecraft Reward-Plugin (Java)
-- **[OneBlock](https://github.com/nospighost/OneBlock.git)** – Minecraft OneBlock Plugin (Java)
+- **[rewardPlugin](https://github.com/nospighost/rewardPlugin.git)** – Minecraft Reward-Plugin
+- **[OneBlock](https://github.com/nospighost/OneBlock.git)** – Minecraft OneBlock Plugin
 
 ## 📫 Reach me & Socials
 <p align="center">
