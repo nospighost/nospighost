@@ -1,7 +1,7 @@
-# Hi 👋, ich bin nospighost
+# Hi 👋, i`m nospighost
 
 <p align="center">
-  Mein Fokus liegt auf der Java-Entwicklung. Dort programmiere ich hauptsächlich Minecraft Plugins.<br>
+  My focus is on Java development. In this area, I primarily program Minecraft plugins<br>
 </p>
 
 ## 📖 Languages
